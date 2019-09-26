@@ -1,0 +1,43 @@
+version: '3'
+networks:
+  fila:
+services: 
+  db:
+    image: mcr.microsoft.com/mssql/server:2017-latest
+    environment: 
+      - ACCEPT_EULA="y"
+      - SA_PASSWORD=TesteSql@123
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: RabbitMQ
+    ports: 
+      - "15672:15672"
+      - "5672:5672"
+    networks: 
+      - fila
+    environment: 
+      RABBITMQ_DEFAULT_USER: user
+      RABBITMQ_DEFAULT_PASS: pass
+      RABBITMQ_DEFAULT_VHOST: FirstProject
+
+  firstproject:
+    build: ./src/1 - Api
+    image: firstprojectapi
+    depends_on:
+      - db
+    ports: 
+      - "5001:80"
+    networks: 
+      - fila
+  worker:
+    build: ./src/2 - Worker
+    image: firstprojectworker
+    depends_on:
+      - db
+    ports: 
+      - "5002:80"
+    networks: 
+      - fila
+    depends_on: 
+     - rabbitmq
+    

@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/FirstProject.Infra/FirstProject.Infra.csproj": {}
+  },
+  "projects": {
+    "/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/FirstProject.Infra/FirstProject.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/FirstProject.Infra/FirstProject.Infra.csproj",
+        "projectName": "FirstProject.Infra",
+        "projectPath": "/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/FirstProject.Infra/FirstProject.Infra.csproj",
+        "packagesPath": "/home/yagozt/.nuget/packages/",
+        "outputPath": "/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/FirstProject.Infra/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/yagozt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

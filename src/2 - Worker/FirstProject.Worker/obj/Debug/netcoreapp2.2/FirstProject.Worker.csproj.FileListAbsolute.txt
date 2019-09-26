@@ -1,0 +1,11 @@
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/2 - Worker/FirstProject.Worker/obj/Debug/netcoreapp2.2/FirstProject.Worker.csprojAssemblyReference.cache
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/2 - Worker/FirstProject.Worker/obj/Debug/netcoreapp2.2/FirstProject.Worker.csproj.CoreCompileInputs.cache
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/2 - Worker/FirstProject.Worker/obj/Debug/netcoreapp2.2/FirstProject.Worker.AssemblyInfoInputs.cache
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/2 - Worker/FirstProject.Worker/obj/Debug/netcoreapp2.2/FirstProject.Worker.AssemblyInfo.cs
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/2 - Worker/FirstProject.Worker/bin/Debug/netcoreapp2.2/FirstProject.Worker.deps.json
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/2 - Worker/FirstProject.Worker/bin/Debug/netcoreapp2.2/FirstProject.Worker.runtimeconfig.json
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/2 - Worker/FirstProject.Worker/bin/Debug/netcoreapp2.2/FirstProject.Worker.runtimeconfig.dev.json
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/2 - Worker/FirstProject.Worker/bin/Debug/netcoreapp2.2/FirstProject.Worker.dll
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/2 - Worker/FirstProject.Worker/bin/Debug/netcoreapp2.2/FirstProject.Worker.pdb
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/2 - Worker/FirstProject.Worker/obj/Debug/netcoreapp2.2/FirstProject.Worker.dll
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/2 - Worker/FirstProject.Worker/obj/Debug/netcoreapp2.2/FirstProject.Worker.pdb

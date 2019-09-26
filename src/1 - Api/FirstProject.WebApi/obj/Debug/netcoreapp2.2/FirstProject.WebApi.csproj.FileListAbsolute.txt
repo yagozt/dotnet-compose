@@ -1,0 +1,28 @@
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/FirstProject.WebApi/bin/Debug/netcoreapp2.2/FirstProject.WebApi.deps.json
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/FirstProject.WebApi/bin/Debug/netcoreapp2.2/FirstProject.WebApi.runtimeconfig.json
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/FirstProject.WebApi/bin/Debug/netcoreapp2.2/FirstProject.WebApi.runtimeconfig.dev.json
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/FirstProject.WebApi/bin/Debug/netcoreapp2.2/FirstProject.WebApi.dll
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/FirstProject.WebApi/bin/Debug/netcoreapp2.2/FirstProject.WebApi.pdb
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/FirstProject.WebApi/obj/Debug/netcoreapp2.2/FirstProject.WebApi.csprojAssemblyReference.cache
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/FirstProject.WebApi/obj/Debug/netcoreapp2.2/FirstProject.WebApi.csproj.CoreCompileInputs.cache
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/FirstProject.WebApi/obj/Debug/netcoreapp2.2/FirstProject.WebApi.RazorAssemblyInfo.cache
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/FirstProject.WebApi/obj/Debug/netcoreapp2.2/FirstProject.WebApi.RazorAssemblyInfo.cs
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/FirstProject.WebApi/obj/Debug/netcoreapp2.2/FirstProject.WebApi.AssemblyInfoInputs.cache
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/FirstProject.WebApi/obj/Debug/netcoreapp2.2/FirstProject.WebApi.AssemblyInfo.cs
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/FirstProject.WebApi/obj/Debug/netcoreapp2.2/FirstProject.WebApi.RazorTargetAssemblyInfo.cache
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/FirstProject.WebApi/obj/Debug/netcoreapp2.2/FirstProject.WebApi.dll
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/FirstProject.WebApi/obj/Debug/netcoreapp2.2/FirstProject.WebApi.pdb
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/1 - Api/FirstProject.WebApi/bin/Debug/netcoreapp2.2/FirstProject.WebApi.deps.json
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/1 - Api/FirstProject.WebApi/bin/Debug/netcoreapp2.2/FirstProject.WebApi.runtimeconfig.json
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/1 - Api/FirstProject.WebApi/bin/Debug/netcoreapp2.2/FirstProject.WebApi.runtimeconfig.dev.json
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/1 - Api/FirstProject.WebApi/bin/Debug/netcoreapp2.2/FirstProject.WebApi.dll
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/1 - Api/FirstProject.WebApi/bin/Debug/netcoreapp2.2/FirstProject.WebApi.pdb
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/1 - Api/FirstProject.WebApi/obj/Debug/netcoreapp2.2/FirstProject.WebApi.csprojAssemblyReference.cache
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/1 - Api/FirstProject.WebApi/obj/Debug/netcoreapp2.2/FirstProject.WebApi.csproj.CoreCompileInputs.cache
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/1 - Api/FirstProject.WebApi/obj/Debug/netcoreapp2.2/FirstProject.WebApi.RazorAssemblyInfo.cache
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/1 - Api/FirstProject.WebApi/obj/Debug/netcoreapp2.2/FirstProject.WebApi.RazorAssemblyInfo.cs
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/1 - Api/FirstProject.WebApi/obj/Debug/netcoreapp2.2/FirstProject.WebApi.AssemblyInfoInputs.cache
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/1 - Api/FirstProject.WebApi/obj/Debug/netcoreapp2.2/FirstProject.WebApi.AssemblyInfo.cs
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/1 - Api/FirstProject.WebApi/obj/Debug/netcoreapp2.2/FirstProject.WebApi.RazorTargetAssemblyInfo.cache
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/1 - Api/FirstProject.WebApi/obj/Debug/netcoreapp2.2/FirstProject.WebApi.dll
+/home/yagozt/Documentos/Docker/DotNet/FirstProject/src/1 - Api/FirstProject.WebApi/obj/Debug/netcoreapp2.2/FirstProject.WebApi.pdb
